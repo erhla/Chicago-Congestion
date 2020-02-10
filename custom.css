@@ -28,3 +28,7 @@ html body .container#notebook-container {
   border-radius: 5px;
   width: min-content;
 }
+
+.output_stderr {
+  display: none;
+}
